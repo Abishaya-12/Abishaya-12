@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abishaya and I'm from Chennai, India 🌊</h2>
+<h2 align="left">Hi ! My name is Abishaya and I'm from India</h2>
 
 ###
 

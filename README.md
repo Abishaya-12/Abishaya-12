@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abishaya and I'm a Programmer | Artist, from Chennai, India 🌊</h2>
+<h2 align="left">Hi 👋! My name is Abishaya and I'm from Chennai, India 🌊</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/2vmHGnmGBU6Ws/giphy.gif" alt="Nyan Cat" />
+<img align="right" height="150" src="https://media.tenor.com/2PUNgFEjGEoAAAAd/nyan-cat.gif" alt="Nyan Cat" />
 
 ###
 
@@ -47,6 +47,9 @@
   </a>
   <a href="mailto:aluri.abishaya@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/aluri_abishaya" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
   </a>
 </div>
 

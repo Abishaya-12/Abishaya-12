@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/2PUNgFEjGEoAAAAd/nyan-cat.gif" alt="Nyan Cat" />
+<img align="right" height="150" src="https://media1.tenor.com/m/-ERfeVIwdFIAAAAd/nanami-kento-jjk-cursed-clash.gif" alt="Nanami so done" />
 
 ###
 
@@ -52,24 +52,3 @@
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Abishaya-12/Abishaya-12/output/snake.svg" alt="Snake animation" />
-
-<!--
-**Abishaya-12/Abishaya-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

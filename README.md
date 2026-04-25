@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="(https://tenor.com/view/cat-space-nyan-cat-gif-22656380)" alt="Nyan cat<3" />
+<img align="right" height="150" src="https://tenor.com/view/cat-space-nyan-cat-gif-22656380.gif" alt="Nyan cat<3" />
 
 ###
 

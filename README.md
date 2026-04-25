@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/-ERfeVIwdFIAAAAd/nanami-kento-jjk-cursed-clash.gif" alt="Nanami so done" />
+<img align="right" height="150" src="(https://tenor.com/view/cat-space-nyan-cat-gif-22656380)" alt="Nyan cat<3" />
 
 ###
 

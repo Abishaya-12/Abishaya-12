@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abishaya 👋</h1>
-<h3 align="center">CS Engineering Student · Building small, sharp things</h3>
+<h3 align="center">CS Engineering Student · Building small and staying small</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E85D75&center=true&vCenter=true&width=440&lines=Second-year+CS+Engineering+Student;Currently+deep+in+DBMS+%26+DSA;Sketching+ideas+in+Krita+on+the+side" alt="Typing SVG" />
@@ -13,7 +13,7 @@ I'm a second-year Computer Science Engineering student in India, currently worki
 
 ---
 
-### Tech I actually use
+### Tech Stack(?)
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />

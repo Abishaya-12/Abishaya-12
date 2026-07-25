@@ -28,11 +28,7 @@ I'm a second-year Computer Science Engineering student in India, currently worki
 
 ### GitHub stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abishaya-12&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishaya-12&layout=compact&theme=radical&hide_border=true" />
-</p>
-
+<p align="left"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=Abishaya-12&show_icons=true&theme=radical&hide_border=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abishaya-12&layout=compact&theme=radical&hide_border=true" /> </p>
 ---
 
 ### Elsewhere

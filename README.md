@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abishaya 👋</h1>
+<h1 align="center">Hi, I'm Abishaya <^.^></h1>
 <h3 align="center">CS Engineering Student · Building small and staying small</h3>
 
 <p align="center">

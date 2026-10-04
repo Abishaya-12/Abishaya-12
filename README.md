@@ -9,7 +9,7 @@
 
 ### About
 
-I'm a second-year Computer Science Engineering student in India, currently working through Database Management Systems and algorithm-heavy coursework. Outside of class I'm usually solving LeetCode problems, sketching, or tinkering with a small side project I probably won't finish — and I'm okay with that.
+I'm a second-year Computer Science Engineering student in India, currently working through Database Management Systems and algorithm-heavy coursework.
 
 ---
 

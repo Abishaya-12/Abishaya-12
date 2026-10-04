@@ -45,4 +45,4 @@ I'm a second-year Computer Science Engineering student in India, currently worki
   </a>
 </p>
 
-<p align="center"><i>Currently pinned below — everything else is a work in progress.</i></p>
+
